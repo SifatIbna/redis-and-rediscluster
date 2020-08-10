@@ -3,8 +3,7 @@
 ![Image](https://miro.medium.com/max/700/1*i1d88Q8NNrRv6kjf7Ssw4g.png)
 
  _*Sifat Ibna Amin*_
-
-So the first question that will pop up in your head is that what is **redis**? And How does it work?
+`
 
 ## What is *Redis?*
 
